@@ -1,0 +1,62 @@
+.image{
+    text-align: right;
+    top: 0%; right 90px;
+}
+header{
+    background-color: white;
+    padding: 20px;
+    
+    
+}
+header h1{
+    text-align: left;
+    font-size: 32px;
+}
+h2{
+    background-color: #FF6464;
+    display: inline-block;
+    padding: 20px;
+    ;
+}
+.section-with-background{
+    background-color: #EDF7FA;
+}
+.side-by-side p{
+    display: inline-block;
+    width: 30%;
+    margin-right: 10px;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 80px;
+    background-color: #EDF7FA;
+    text-align: center;
+    
+
+
+}
+.item{
+    flex: 1;
+    margin:0 10px;
+}
+.item p {
+    background-color: white;
+    padding: 10px;
+    border-radius: 8px;
+}
+footer{
+    padding: 20px;
+    text-align: center;
+}
+footer p{
+    margin 0
+
+
+}
+
+.
+
+}
